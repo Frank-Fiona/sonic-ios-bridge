@@ -17,7 +17,7 @@
  */
 package main
 
-import "github.com/SonicCloudOrg/sonic-ios-bridge/cmd"
+import "github.com/Frank-Fiona/sonic-ios-bridge/cmd"
 
 func main() {
 	cmd.Execute()

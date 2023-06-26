@@ -19,11 +19,12 @@ package afc
 
 import (
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/spf13/cobra"
 	"io"
 	"os"
 	gPath "path"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/spf13/cobra"
 )
 
 var afcPushCmd = &cobra.Command{

@@ -19,7 +19,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/webinspector"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/webinspector"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cobra"
 	"os"

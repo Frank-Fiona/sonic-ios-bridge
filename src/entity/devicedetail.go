@@ -20,7 +20,8 @@ package entity
 import (
 	"encoding/json"
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
 )
 
 type DeviceDetail struct {

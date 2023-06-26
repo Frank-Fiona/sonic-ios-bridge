@@ -20,12 +20,13 @@ package webinspector
 import (
 	"context"
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
-	"github.com/gin-gonic/gin"
-	"github.com/gorilla/websocket"
 	"log"
 	"net/http"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
+	"github.com/gin-gonic/gin"
+	"github.com/gorilla/websocket"
 )
 
 var webDebug *WebkitDebugService

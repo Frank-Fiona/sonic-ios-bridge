@@ -39,7 +39,7 @@ var rootCmd = &cobra.Command{
   ▀▀▀▀▀      ▀▀▀▀    ▀▀   ▀▀▀   ▀▀▀▀▀▀      ▀▀▀▀
 
     Copyright (C) 2022 SonicCloudOrg AGPLv3
-https://github.com/SonicCloudOrg/sonic-ios-bridge
+https://github.com/Frank-Fiona/sonic-ios-bridge
 `,
 }
 

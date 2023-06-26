@@ -19,8 +19,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/entity"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/entity"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"os"

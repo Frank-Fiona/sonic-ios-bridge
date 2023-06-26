@@ -23,8 +23,6 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/entity"
 	"io"
 	"io/ioutil"
 	"log"
@@ -36,6 +34,9 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/entity"
 )
 
 const (

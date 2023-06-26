@@ -3,20 +3,20 @@
 </p>
 <p align="center">🎉基于usbmuxd的iOS调试工具</p>
 <p align="center">
-  <a href="https://github.com/SonicCloudOrg/sonic-ios-bridge/blob/main/README.md">  
+  <a href="https://github.com/Frank-Fiona/sonic-ios-bridge/blob/main/README.md">  
     English
   </a>
   <span>| 简体中文</span>
 </p>
 <p align="center">
   <a href="#">  
-    <img src="https://img.shields.io/github/v/release/SonicCloudOrg/sonic-ios-bridge?include_prereleases">
+    <img src="https://img.shields.io/github/v/release/Frank-Fiona/sonic-ios-bridge?include_prereleases">
   </a>
    <a href="#">  
-    <img src="https://img.shields.io/github/downloads/SonicCloudOrg/sonic-ios-bridge/total">
+    <img src="https://img.shields.io/github/downloads/Frank-Fiona/sonic-ios-bridge/total">
   </a>
   <a href="#">  
-    <img src="https://img.shields.io/github/go-mod/go-version/SonicCloudOrg/sonic-ios-bridge">
+    <img src="https://img.shields.io/github/go-mod/go-version/Frank-Fiona/sonic-ios-bridge">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ## 使用方法
 
 #### 1. 下载
-[点击这里](https://github.com/SonicCloudOrg/sonic-ios-bridge/releases)
+[点击这里](https://github.com/Frank-Fiona/sonic-ios-bridge/releases)
 
 #### 2. 执行指令 (windows不需要)
 ```

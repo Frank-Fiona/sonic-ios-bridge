@@ -20,13 +20,14 @@ package app
 import (
 	"encoding/base64"
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/entity"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
-	"github.com/mitchellh/mapstructure"
-	"github.com/spf13/cobra"
 	"io/ioutil"
 	"os"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/entity"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
+	"github.com/mitchellh/mapstructure"
+	"github.com/spf13/cobra"
 )
 
 var listCmd = &cobra.Command{

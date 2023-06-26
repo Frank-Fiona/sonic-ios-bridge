@@ -20,11 +20,12 @@ package cmd
 import (
 	"encoding/json"
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/entity"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
-	"github.com/spf13/cobra"
 	"os"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/entity"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
+	"github.com/spf13/cobra"
 )
 
 var devicesCmd = &cobra.Command{

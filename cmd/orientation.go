@@ -19,11 +19,12 @@ package cmd
 
 import (
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
 	"os"
 	"os/signal"
 	"time"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
 
 	"github.com/spf13/cobra"
 )

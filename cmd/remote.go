@@ -18,7 +18,7 @@
 package cmd
 
 import (
-	"github.com/SonicCloudOrg/sonic-ios-bridge/cmd/remote"
+	"github.com/Frank-Fiona/sonic-ios-bridge/cmd/remote"
 	"github.com/spf13/cobra"
 )
 

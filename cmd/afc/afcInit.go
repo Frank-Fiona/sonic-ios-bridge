@@ -18,10 +18,11 @@
 package afc
 
 import (
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
-	"github.com/spf13/cobra"
 	"os"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
+	"github.com/spf13/cobra"
 )
 
 var afcRootCMD *cobra.Command

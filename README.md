@@ -4,20 +4,20 @@
 <p align="center">🎉Bridge of iOS Devices by usbmuxd</p>
 <p align="center">
   <span>English |</span>
-  <a href="https://github.com/SonicCloudOrg/sonic-ios-bridge/blob/main/README_CN.md">  
+  <a href="https://github.com/Frank-Fiona/sonic-ios-bridge/blob/main/README_CN.md">  
      简体中文
   </a>
 </p>
 <p align="center">
   <a href="#">  
-    <img src="https://img.shields.io/github/v/release/SonicCloudOrg/sonic-ios-bridge?include_prereleases">
+    <img src="https://img.shields.io/github/v/release/Frank-Fiona/sonic-ios-bridge?include_prereleases">
   </a>
   <a href="#">  
-    <img src="https://img.shields.io/github/downloads/SonicCloudOrg/sonic-ios-bridge/total">
+    <img src="https://img.shields.io/github/downloads/Frank-Fiona/sonic-ios-bridge/total">
   </a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSonicCloudOrg%2Fsonic-ios-bridge?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSonicCloudOrg%2Fsonic-ios-bridge.svg?type=shield"/></a>
   <a href="#">  
-    <img src="https://img.shields.io/github/go-mod/go-version/SonicCloudOrg/sonic-ios-bridge">
+    <img src="https://img.shields.io/github/go-mod/go-version/Frank-Fiona/sonic-ios-bridge">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 ## Usage
 
 #### 1. Download
-[click here](https://github.com/SonicCloudOrg/sonic-ios-bridge/releases)
+[click here](https://github.com/Frank-Fiona/sonic-ios-bridge/releases)
 #### 2. execute shell (No need for windows)
 ```
 sudo chmod 777 ./sib && ./sib version

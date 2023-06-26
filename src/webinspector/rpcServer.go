@@ -19,12 +19,13 @@ package webinspector
 
 import (
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/entity"
-	"howett.net/plist"
 	"log"
 	"strconv"
 	"strings"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/entity"
+	"howett.net/plist"
 )
 
 type RPCService struct {

@@ -18,7 +18,7 @@
 package cmd
 
 import (
-	"github.com/SonicCloudOrg/sonic-ios-bridge/cmd/location"
+	"github.com/Frank-Fiona/sonic-ios-bridge/cmd/location"
 	"github.com/spf13/cobra"
 )
 

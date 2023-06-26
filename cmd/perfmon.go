@@ -19,12 +19,13 @@ package cmd
 
 import (
 	"fmt"
-	giDevice "github.com/SonicCloudOrg/sonic-gidevice"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/entity"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
-	"github.com/spf13/cobra"
 	"os"
 	"os/signal"
+
+	giDevice "github.com/Frank-Fiona/sonic-gidevice"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/entity"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
+	"github.com/spf13/cobra"
 )
 
 var pefmonCmd = &cobra.Command{
@@ -37,7 +38,7 @@ var pefmonCmd = &cobra.Command{
 			fmt.Println("device is not found")
 			os.Exit(0)
 		}
-		
+
 		if (pid != -1 || bundleId != "") && !sysCPU && !sysMEM && !sysDisk && !sysNetwork && !getGPU && !getFPS && !processNetwork && !processMem && !processCpu {
 			sysAllParamsSet()
 			processNetwork = true

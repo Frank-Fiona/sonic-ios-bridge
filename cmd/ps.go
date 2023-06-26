@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
 	"github.com/spf13/cobra"
 )
 

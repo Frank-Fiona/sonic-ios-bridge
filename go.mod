@@ -1,9 +1,9 @@
-module github.com/SonicCloudOrg/sonic-ios-bridge
+module github.com/Frank-Fiona/sonic-ios-bridge
 
 go 1.18
 
 require (
-	github.com/SonicCloudOrg/sonic-gidevice v0.7.4
+	github.com/Frank-Fiona/sonic-gidevice v0.3.0
 	github.com/SonicCloudOrg/sonic-ios-webkit-adapter v0.0.7
 	github.com/gin-gonic/gin v1.8.1
 	github.com/google/gopacket v1.1.19

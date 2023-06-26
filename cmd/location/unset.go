@@ -19,7 +19,7 @@ package location
 
 import (
 	"fmt"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
 	"os"
 
 	"github.com/spf13/cobra"

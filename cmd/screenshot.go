@@ -19,7 +19,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/SonicCloudOrg/sonic-ios-bridge/src/util"
+	"github.com/Frank-Fiona/sonic-ios-bridge/src/util"
 	uuid "github.com/satori/go.uuid"
 	"github.com/spf13/cobra"
 	"image"
